@@ -17,7 +17,7 @@ Tester - Audrey Tapia
 Group Project A 
 Members
 ---------------------------------------------
-Ashley Jacobson
-Giannfranco Brance
-Audrey Tapia
+Ashley Jacobson,
+Giannfranco Brance,
+Audrey Tapia,
 Heily Cabrera Guerrero
